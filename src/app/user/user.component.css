@@ -1,0 +1,18 @@
+.list {
+  background-color: bisque;
+
+}
+
+.input-add {
+  background-color: blue;
+  margin: 10px 10px 10px;
+  border: brown;
+  text-align: center;
+}
+
+.input-delete {
+  background-color: brown;
+  margin: 10px 10px 10px;
+  border: brown;
+  text-align: center;
+}
